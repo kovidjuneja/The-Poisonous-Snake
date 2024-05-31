@@ -4,7 +4,7 @@
 }
 
 .body{
-    background: url("../theback.jpg");
+    background: url("theback.jpg");
     background-color: goldenrod;
     min-height: 100vh;
     background-size:110vw 100vh;
